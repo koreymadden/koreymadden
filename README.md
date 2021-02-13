@@ -1,7 +1,7 @@
 ### Hello, I'm Korey
 
 ### Find out more:
-[<img align="left" alt="koreymadden.com" width="15px" src="http://koreymadden.com/images/logo-k.png" />][website]
+[<img align="left" alt="koreymadden.com" width="15px" src="http://koreymadden.com/images/logo-k.png" />][website] [koreymadden.com][website]
 
 <br />
 
