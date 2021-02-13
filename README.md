@@ -1,9 +1,5 @@
-### Hello, I'm Korey
-
-### Find out more:
+### Find Out More:
 [<img align="left" alt="koreymadden.com" width="15px" src="http://koreymadden.com/images/logo-k.png" />][website] [koreymadden.com][website]
-
-<br />
 
 ### Languages and Tools:
 
