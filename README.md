@@ -1,5 +1,5 @@
 ### Find Out More:
-[<img align="left" alt="koreymadden.com" width="15px" src="https://www.koreymadden.com/android-chrome-512x512.png" />][website] [koreymadden.com][website]
+[<img align="left" alt="koreymadden.com" width="26px" src="https://www.koreymadden.com/android-chrome-192x192.png" />][website] [koreymadden.com][website]
 
 ### Languages and Tools:
 
